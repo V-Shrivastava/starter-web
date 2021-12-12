@@ -9,6 +9,7 @@ Adding steps for Introduction
 
 ## Deploy 
 
+Adding deploy steps
 ## Purpose
 
 ## Advantages
