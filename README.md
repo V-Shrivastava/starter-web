@@ -12,4 +12,5 @@ Adding steps for Introduction
 Adding deploy steps
 ## Purpose
 
+## Copyright
 ## Advantages
